@@ -11,6 +11,8 @@
     ]
   },
   "devDependencies": {
+    "@monorepo/eslint-config": "*",
+    "typescript": "^4.2.4",
     "webpack-dev-server": "^3.11.2"
   }
 }
